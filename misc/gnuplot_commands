@@ -1,0 +1,17 @@
+set style line 1 linetype 1 dt 4 lw 2 linecolor rgb 'red'
+set style line 2 linetype 1 dt 3 lw 2 linecolor rgb 'blue'
+set style line 3 linetype 1 dt 2 lw 2 linecolor rgb 'green'
+
+set xrang[0:499]
+set logscale y 5
+set format y "10^{%L}"
+set xlabel "Iterations"
+set ylabel "Best Value"
+
+plot 'f3.dat' index 0 with lines ls 1 title "WILL", \
+''                   index 1 with lines ls 2 title "GWO", \
+''                   index 2 with lines ls 3 title "PSO"
+
+
+
+

@@ -1,0 +1,12 @@
+
+
+"This statement suggests that social sharing of information among conspeciates offers an evolutionary advantage: this
+hypothesis was fundamental to the developnmt of particle swarm optimization" - PSO
+
+"One motive for developing the simdation was to model human social behavior, which is of course not
+identical to fish schooling or bird flocking. Che important difference is its abstractness. Birds and fish
+adjust their physical movement to avoid prechtors, seek food and mates, optimize environmental
+parameters such as temperature, etc. Humans; adjust not only physical movement but cognitive or
+experiential variables as well. We do not usually walk in step and tum in unison (though some
+fascinating research in human conformity shows that we are capable of it); rather, we tend to adjust our
+beliefs and attitudes to conform with those cd our social peers." - PSO

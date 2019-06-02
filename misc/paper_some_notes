@@ -1,0 +1,7 @@
+
+
+
+
+\section{Introduction}
+
+In the past few decades meta-heuristics have been successfully applied to solve many optimization problems in an increasingly wider range of fields, specially in engineering. In such fields, various problems have related noisy, multimodal, non-continuous, and non-linear functions which can not be efficiently optimized by conventional numerical methods, like the ones based on gradient descent or linear programming, hence the need for more flexible methods such as meta-heuristics. There are basically three main reasons for their success: simplicity, flexibility, and a favorable capability to handle the pitfalls of local optima.

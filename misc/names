@@ -1,0 +1,98 @@
+\textit{Sphere Model} 
+\textit{Schwefel's Problem 2.22} 
+\textit{Schwefel's Problem 1.2} 
+\textit{Schwefel's Problem 2.21} 
+& \textit{Generalized Rosenbrock's Function} 
+& \textit{Step Function} 
+& \textit{Quadratic Function i.e. Noise} 
+
+& \textit{Generalized Schwefel's Problem 2.26} 
+& \textit{Generalized Rastrigin's Function} 
+& \textit{Ackley's Fucntion}
+& \textit{Generalized Griewank Function}
+Generalized Penalized Functions 
+
+
+\begin{figure}[ht]
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f1.jpg}
+    \caption{f_{1}(x)}
+    \label{fig:1}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f2.jpg}
+    \caption{f_{2}(x)}
+    \label{fig:2}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f3.jpg}
+    \caption{f_{3}(x)}
+    \label{fig:2}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f4.jpg}
+    \caption{f_{4}(x)}
+    \label{fig:2}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f5.jpg}
+    \caption{f_{5}(x)}
+    \label{fig:2}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f6.jpg}
+    \caption{f_{6}(x)}
+    \label{fig:2}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f7.jpg}
+    \caption{f_{7}(x)}
+    \label{fig:2}
+  \end{subfigure}
+  \caption[Long caption]{Unimodal benchmark functions 3D plot}
+\end{figure}
+
+\begin{figure}[ht]
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f8.jpg}
+    \caption{f_{1}(x)}
+    \label{fig:1}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f9.jpg}
+    \caption{f_{2}(x)}
+    \label{fig:2}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f10.png}
+    \caption{f_{3}(x)}
+    \label{fig:2}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f11.jpg}
+    \caption{f_{4}(x)}
+    \label{fig:2}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f12.jpg}
+    \caption{f_{5}(x)}
+    \label{fig:2}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{f13.jpg}
+    \caption{f_{6}(x)}
+    \label{fig:2}
+  \end{subfigure} 
+  \caption[Long caption]{Multimodal benchmark functions 3D plot}
+\end{figure}
